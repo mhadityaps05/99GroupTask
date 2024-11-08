@@ -43,7 +43,7 @@ This architecture allows for modular and testable code, making it easier to main
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/99GroupTask.git
+   git clone https://github.com/mhadityaps05/99GroupTask.git
    cd 99GroupTask
    ```
 
