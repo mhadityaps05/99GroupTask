@@ -63,5 +63,10 @@ This architecture allows for modular and testable code, making it easier to main
 ## Testing
 - **Unit Tests**: Unit tests are available for core components. These tests can be run directly in Xcode by selecting the test target.
 
+## Demo Video
+
+A demo video explaining the app’s features, architecture, and testing can be viewed [here](https://drive.google.com/file/d/1NzG7--piXvXjLEJYtox48UoK990x9Fun/view?usp=share_link).
+
+
 ## License
 This project is licensed under the MIT License.
