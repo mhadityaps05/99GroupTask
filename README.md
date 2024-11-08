@@ -1,6 +1,3 @@
-Here’s a template for a `README.md` file that you can use for your GitHub repository. This `README` includes sections on project description, setup, and usage.
-
----
 
 # 99GroupTask
 
@@ -68,7 +65,3 @@ This architecture allows for modular and testable code, making it easier to main
 
 ## License
 This project is licensed under the MIT License.
-
----
-
-Replace placeholders like `https://github.com/your-username/99GroupTask.git` with your actual GitHub repository link, and add any additional details specific to your project as needed. This `README` provides a clear overview of the project, making it easier for others to understand and use.
