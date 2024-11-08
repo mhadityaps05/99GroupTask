@@ -3,6 +3,8 @@
 
 A mobile application built as an assignment project for property listings and details, following specific requirements including MVVM architecture, asynchronous data handling, and an interactive map feature.
 
+
+
 ## Table of Contents
 - [Project Description](#project-description)
 - [Features](#features)
@@ -65,7 +67,7 @@ This architecture allows for modular and testable code, making it easier to main
 
 ## Demo Video
 
-A demo video explaining the app’s features, architecture, and testing can be viewed [here](https://drive.google.com/file/d/1NzG7--piXvXjLEJYtox48UoK990x9Fun/view?usp=share_link).
+A demo video explaining the app’s features, architecture, and testing can be viewed [here](https://drive.google.com/file/d/15jxxU-Z0ZKGDx-bdMEXdWH7YJPxZTmCm/view?usp=share_link).
 
 
 ## License
